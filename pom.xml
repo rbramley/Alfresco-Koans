@@ -9,8 +9,8 @@
         <version>1.0.2</version>
     </parent>
 
-    <groupId>com.ixxus.workshop</groupId>
-    <artifactId>workshop-alfresco</artifactId>
+    <groupId>com.ixxus.alfresco.koans</groupId>
+    <artifactId>ixxus-alfresco-koans</artifactId>
     <version>4.2.0.1.0-SNAPSHOT</version>
 
     <packaging>jar</packaging>
