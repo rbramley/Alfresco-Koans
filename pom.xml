@@ -25,6 +25,21 @@
     </properties>
 
     <dependencies>
+    	<dependency>
+            <groupId>com.ixxus.alfresco</groupId>
+            <artifactId>ixxus-alfresco-sdk</artifactId>
+            <version>4.2.0.0.0.1</version>
+            <type>pom</type>
+            <scope>provided</scope>
+        </dependency>
+
+        <dependency>
+            <groupId>com.ixxus.alfresco</groupId>
+            <artifactId>alfresco-config</artifactId>
+            <version>4.2.0.0.0.1</version>
+            <scope>provided</scope>
+        </dependency>
+        
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
